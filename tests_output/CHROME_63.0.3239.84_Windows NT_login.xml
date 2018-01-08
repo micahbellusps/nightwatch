@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="login"
+    errors="0" failures="1" hostname="" id="" package="login" skipped="0"
+    tests="1" time="9.857" timestamp="Tue, 02 Jan 2018 14:35:35 GMT">
+  
+    <testcase name="Login test" classname="login" time="9.857" assertions="5">
+
+    
+
+    
+
+    
+
+      <failure message="Testing if the page title equals &quot;Dashboard&quot;.">    at Object.Login test (C:\Users\mbell\WebstormProjects\Nightwatch\tests\login.js:84:25)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

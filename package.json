@@ -1,0 +1,29 @@
+{
+  "name": "testing-app",
+  "version": "1.0.0",
+  "description": "For testing applications ",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "download": "^6.2.5",
+    "nightwatch": "^0.9.16",
+    "selenium": "^2.20.0"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "faker": "^4.1.0",
+    "flow-bin": "^0.61.0",
+    "gl-matrix": "^2.4.0",
+    "jsdom": "^11.5.1",
+    "math": "0.0.3",
+    "mathjs": "^3.17.0",
+    "mysql": "^2.15.0",
+    "nightwatch-xhr": "^0.4.3",
+    "selenium-webdriver": "^3.6.0",
+    "underscore": "^1.8.3"
+  }
+}
