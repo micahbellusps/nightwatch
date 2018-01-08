@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71cd22b0-5540-4f14-bd3c-b2112c20a893" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/Nightwatch.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/chromedriver.exe" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/selenium-server-standalone-3.7.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nightwatch.conf.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sandbox.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/selenium-debug.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/homepage.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/login.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests_output/CHROME_62.0.3202.89_Windows NT_homepage.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests_output/CHROME_62.0.3202.89_Windows NT_login.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests_output/CHROME_62.0.3202.94_Windows NT_homepage.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests_output/CHROME_62.0.3202.94_Windows NT_login.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests_output/CHROME_63.0.3239.84_Windows NT_homepage.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests_output/CHROME_63.0.3239.84_Windows NT_login.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests_output/homepage.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests_output/login.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/utils/mysql.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/utils/webcrawler.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -284,16 +260,15 @@
       <workItem from="1514573004906" duration="25000" />
       <workItem from="1514581309824" duration="1025000" />
       <workItem from="1514903360442" duration="2488000" />
-      <workItem from="1515420762201" duration="755000" />
+      <workItem from="1515420762201" duration="1124000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107320000" />
+    <option name="totallyTimeSpent" value="107689000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12760417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -302,7 +277,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30646873" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30646873" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
